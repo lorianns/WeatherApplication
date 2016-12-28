@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">WeatherApplication</string>
+
+    <!-- Activity label-->
+    <string name="title_activity_detail">Details</string>
+
+    <!-- Labels for menu options -->
+    <string name="action_zipCode">Zip Code</string>
+    <string name="action_refresh">Refresh</string>
+
+    <!-- Key name for storing location in SharedPreferences -->
+    <string name="pref_location_key" translatable="false">location</string>
+
+    <!-- Default postal code for location preference -->
+    <string name="pref_location_default" translatable="false">94043</string>
+
+    <!-- Related to Location input-->
+    <string name="lbl_zip_code_title">Weather</string>
+    <string name="lbl_zip_code_input">Enter Your Zip Code: </string>
+
+    <!-- Label for Zip Code input -->
+    <string name="lbl_submit">Submit</string>
+</resources>
